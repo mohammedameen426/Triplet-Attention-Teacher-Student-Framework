@@ -1,0 +1,7 @@
+tensorflow==2.6.0
+numpy==1.19.5
+opencv-python==4.5.3.56
+matplotlib==3.4.3
+tqdm==4.61.2
+scikit-image==0.18.3
+ezdxf==0.16.5
