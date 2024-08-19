@@ -8,7 +8,7 @@ Concrete dataset comprises a total of 3,616 images, each sized 4032 by 33024 pix
 Concrete dataset:https://data.mendeley.com/datasets/jwsn7tfbrp/1
 
 DeepCrack dataset comprises 537 images with a resolution of 544 x 384 pixels, accompanied by ground truth images at the pixel level. 
-DeepCrack dataset:[https://github.com/yhlleo/DeepCrack.git](https://github.com/yhlleo/DeepCrack?tab=readme-ov-file#deepcrack-a-deep-hierarchical-feature-learning-architecture-for-crack-segmentation)
+DeepCrack dataset:https://github.com/yhlleo/DeepCrack
 
 Crack500 dataset consists of 1896 training images and 1124 testing images, all at a resolution of 640 × 360 pixels. Notably, Crack500 offers a diverse range of crack shapes and widths, presenting significant challenges for crack segmentation tasks. 
 Crack500 dataset: https://github.com/fyangneil/pavement-crack-detection
