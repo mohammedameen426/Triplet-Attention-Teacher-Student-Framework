@@ -20,7 +20,12 @@ Crack500 dataset: https://github.com/fyangneil/pavement-crack-detection
 
 
 
-#Reference:
+
+
+
+
+
+Reference:
 
 If you use this dataset for your research, please cite our paper:
 
