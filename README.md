@@ -27,6 +27,6 @@ Crack500 dataset: https://github.com/fyangneil/pavement-crack-detection
 
 Reference:
 
-If you use this dataset for your research, please cite our paper:
+Our paper:
 
 Mohammed, M. A., Han, Z., Li, Y., Al-Huda, Z., & Wang, W. (2024). Enhanced pavement crack segmentation with minimal labeled data: a triplet attention teacher-student framework. International Journal of Pavement Engineering, 25(1). https://doi.org/10.1080/10298436.2024.2400562
