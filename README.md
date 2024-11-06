@@ -17,3 +17,11 @@ DeepCrack dataset:https://github.com/yhlleo/DeepCrack
 Crack500 dataset consists of 1896 training images and 1124 testing images, all at a resolution of 640 × 360 pixels. Notably, Crack500 offers a diverse range of crack shapes and widths, presenting significant challenges for crack segmentation tasks. 
 
 Crack500 dataset: https://github.com/fyangneil/pavement-crack-detection
+
+
+
+#Reference:
+
+If you use this dataset for your research, please cite our paper:
+
+Mohammed, M. A., Han, Z., Li, Y., Al-Huda, Z., & Wang, W. (2024). Enhanced pavement crack segmentation with minimal labeled data: a triplet attention teacher-student framework. International Journal of Pavement Engineering, 25(1). https://doi.org/10.1080/10298436.2024.2400562
